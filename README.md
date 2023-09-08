@@ -1,2 +1,2 @@
 # data-processing-python
-Scripts containing various data processing techniques in base python, including list comprehensions, functions, classes, loops, etc.
+Scripts created as part of graduate level coursework in python programming, featuring various data processing techniques in base python (list comprehensions, functions, classes, loops, etc).
